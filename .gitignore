@@ -6,3 +6,4 @@ linux/
 *.tar.gz
 *.7z
 *.exe
+sha256sums.txt

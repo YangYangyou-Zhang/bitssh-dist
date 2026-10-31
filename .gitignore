@@ -1,0 +1,8 @@
+# Installers are published as GitHub Release assets, not committed to git.
+win/
+linux/
+*.zip
+*.deb
+*.tar.gz
+*.7z
+*.exe

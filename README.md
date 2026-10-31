@@ -5,9 +5,11 @@
 ## 下载 / Download
 
 - **GitHub Releases**：`https://github.com/YangYangyou-Zhang/bitssh-dist/releases`
-- **百度网盘 / Baidu Netdisk**：链接 `<待补充>`　提取码 `<待补充>`
+- **百度网盘 / Baidu Netdisk**：https://pan.baidu.com/s/1m84Fl5vr8ifWX3_YM_AL6A?pwd=yang　提取码 `yang`
+  - 所有版本统一放在该网盘目录，网盘没有版本管理；版本化下载请用 GitHub Releases。
+  - All versions live in this shared folder; the netdisk is not version-managed. Use GitHub Releases for versioned downloads.
 
-> GitHub Releases 已发布；百度网盘链接/提取码仍待补充。
+> GitHub Releases 与百度网盘地址均已填写。网盘目录会持续放入新版本，但不做版本管理。
 
 ## 文件 / Files
 
